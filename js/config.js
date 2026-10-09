@@ -12,7 +12,7 @@ window.INVITE_CONFIG = {
   day: "17",
   month: "10",
   year: "2026",
-  time: "08:00",
+  time: "10:30",
   arriveNote: "Vui lòng có mặt trước 15 phút",
 
   // Địa điểm
@@ -22,9 +22,9 @@ window.INVITE_CONFIG = {
   parking: "Có bãi giữ xe máy &amp; ô tô trong khuôn viên trường.",
   mapQuery: "Đại học Tôn Đức Thắng, 19 Nguyễn Hữu Thọ",
 
-  // Google Calendar (giờ UTC = giờ VN - 7). VD 08:00 VN -> 010000Z
-  calendarStart: "20261017T010000Z",
-  calendarEnd: "20261017T043000Z",
+  // Google Calendar (giờ UTC = giờ VN - 7). VD 10:30 VN -> 033000Z
+  calendarStart: "20261017T033000Z",
+  calendarEnd: "20261017T070000Z",
 
   // Lịch tháng: thứ của ngày 1 (1 = Thứ Hai ... 7 = Chủ Nhật) và số ngày trong tháng
   monthStartsOn: 4,

@@ -205,7 +205,7 @@
 
   if (cdEls.d && C.year) {
     var pad = function (n) { return String(n).padStart(2, "0"); };
-    var target = new Date(C.year + "-" + pad(C.month) + "-" + pad(C.day) + "T" + (C.time || "08:00") + ":00+07:00");
+    var target = new Date(C.year + "-" + pad(C.month) + "-" + pad(C.day) + "T" + (C.time || "10:30") + ":00+07:00");
 
     function setCd(key, val) {
       var el = cdEls[key];
