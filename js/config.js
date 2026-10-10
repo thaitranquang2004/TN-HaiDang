@@ -16,9 +16,9 @@ window.INVITE_CONFIG = {
   arriveNote: "Vui lòng có mặt trước 15 phút",
 
   // Địa điểm
-  venue: "Hội trường TDTU",
-  venueFull: "Hội trường Đại học Tôn Đức Thắng",
-  address: "19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, TP. Hồ Chí Minh",
+  venue: "Sảnh Tòa A",
+  venueFull: "Sảnh Tòa A Trường Đại học Tôn Đức Thắng",
+  address: "Số 19 Nguyễn Hữu Thọ, Phường Tân Hưng, TP HCM",
   parking: "Có bãi giữ xe máy &amp; ô tô trong khuôn viên trường.",
   mapQuery: "Đại học Tôn Đức Thắng, 19 Nguyễn Hữu Thọ",
 
